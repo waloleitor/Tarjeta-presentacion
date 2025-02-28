@@ -1,0 +1,32 @@
+#tarjeta{
+    border-radius: 15px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    width: 800px;
+    margin: auto;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+img{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 150px;
+    height: auto;
+}
+*{
+    background-color: rgb(184, 182, 182);
+    text-align: center;
+}
+footer{
+    color: black;
+    text-align: center;
+    font-size: 14px;
+    padding: 10px 0;
+}
+footer ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
